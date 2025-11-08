@@ -1116,3 +1116,11 @@ Entries:
       message: Goob Upstream from 31 Oct till 7 Nov, read Changelogs in-game!
   id: 131
   time: '2025-11-08T23:47:02.0000000+00:00'
+- author: 3PonPon3
+  changes:
+    - type: Add
+      message: >-
+        Added the Polyglot trait, which at the cost of one of your trait slots
+        and GLOBAL points, gives you one LANGUAGE trait point!
+  id: 132
+  time: '2025-11-08T23:51:34.0000000+00:00'
