@@ -1448,3 +1448,11 @@ Entries:
       message: the spiders have discovered wigs. they have human hair now
   id: 175
   time: '2025-12-11T12:09:49.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: >-
+        Xelthia jackets added to med and engi loadouts, they get senior variants
+        too
+  id: 176
+  time: '2025-12-11T12:10:38.0000000+00:00'
