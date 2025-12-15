@@ -19145,7 +19145,7 @@ Entries:
     - type: Add
       message: >-
         Chaplain can now select one of 8 armor set variants using armaments
-        beacon. 
+        beacon.
   id: 2165
   time: '2025-12-13T03:00:08.0000000+00:00'
 - author: squishy97
@@ -19153,7 +19153,7 @@ Entries:
     - type: Tweak
       message: >-
         buffed onis attack and defense to be in line with more of their tanky
-        mele build styles, and nerfed their shoving capabilities to compensate 
+        mele build styles, and nerfed their shoving capabilities to compensate
   id: 2166
   time: '2025-12-13T03:06:34.0000000+00:00'
 - author: wachte1
@@ -19205,7 +19205,7 @@ Entries:
     - type: Add
       message: >-
         Mid round lings and heretics are back as well as mid round heretics
-        being buffed slightly 
+        being buffed slightly
   id: 2173
   time: '2025-12-13T08:19:40.0000000+00:00'
 - author: Gab
@@ -19314,3 +19314,18 @@ Entries:
       message: Fixed the grammar of some slot machine pop-up messages
   id: 2187
   time: '2025-12-14T18:23:55.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: Fixed an issue with cavity implants.
+  id: 2188
+  time: '2025-12-14T23:09:52.0000000+00:00'
+- author: Rouden
+  changes:
+    - type: Add
+      message: >-
+        Added lavaland death rattle implant to the salvage vendor and Survival
+        voucher kit - it sends a message in the supply radio channel after it's
+        owner dies on Lavaland's surface with exact death coordinates.
+  id: 2189
+  time: '2025-12-15T09:18:36.0000000+00:00'
