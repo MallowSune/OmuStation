@@ -44,7 +44,8 @@ public partial class GoobInventorySystem
         SubscribeLocalEvent<InventoryComponent, IsEyesCoveredCheckEvent>(RelayInventoryEvent);
         SubscribeLocalEvent<InventoryComponent, RefreshEquipmentHudEvent<Overlays.NightVisionComponent>>(RefRelayInventoryEvent);
         SubscribeLocalEvent<InventoryComponent, RefreshEquipmentHudEvent<Overlays.ThermalVisionComponent>>(RefRelayInventoryEvent);
-        SubscribeLocalEvent<InventoryComponent, RefreshEquipmentHudEvent<ShowContrabandIconsComponent>>(RefRelayInventoryEvent);
+        /// Omu - No Contrahud >:(
+        //SubscribeLocalEvent<InventoryComponent, RefreshEquipmentHudEvent<ShowContrabandIconsComponent>>(RefRelayInventoryEvent);
 
         // disease
         SubscribeLocalEvent<InventoryComponent, DiseaseOutgoingSpreadAttemptEvent>(RefRelayInventoryEvent);
