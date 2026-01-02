@@ -1691,3 +1691,9 @@ Entries:
       message: Terminus damage value reverted to how it was before upstream.
   id: 206
   time: '2026-01-01T20:53:23.0000000+00:00'
+- author: Delphine
+  changes:
+    - type: Fix
+      message: Fixed the Temperature Gun not working properly.
+  id: 207
+  time: '2026-01-02T18:33:53.0000000+00:00'
