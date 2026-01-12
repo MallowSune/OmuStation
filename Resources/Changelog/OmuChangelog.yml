@@ -1767,3 +1767,9 @@ Entries:
       message: Stealth suits can now be seen via thermals!
   id: 218
   time: '2026-01-12T07:25:29.0000000+00:00'
+- author: God
+  changes:
+    - type: Remove
+      message: The Devil can no longer make people immortal. Get new gimmicks.
+  id: 219
+  time: '2026-01-12T07:30:30.0000000+00:00'
